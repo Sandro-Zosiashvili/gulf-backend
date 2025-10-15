@@ -1,1 +1,7 @@
-export class CreateNewsDto {}
+export class CreateNewsDto {
+    id: number;
+    title: string;
+    description: string;
+    image: string;
+    date: string;
+}
