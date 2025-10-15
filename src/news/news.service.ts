@@ -22,10 +22,10 @@ export class NewsService {
             },
             {
                 id: 2,
-                title: 'გალფი ბავშვებისთვის',
-                description: 'საქართველოში არსებული სოციალური მდგომარეობიდან გამომდინარე კომპანია ცდილობს გვერდში დაუდგეს მოსახლეობას და ამ პროქეტის იდეასაც...',
-                image: 'https://imagedelivery.net/d_EE26O5eWcJDRYn-qMBOg/101e79e8-26a8-45ec-c570-5bf2f0509f00/fit=scale-down,width=960',
-                date: '7 იანვარი 2024',
+                title: 'მოუარე საქართველოს',
+                description: 'გახდი შენი ქვეყნის მიკროგმირი - მოუარე საქართველოს, ნორიოს პოლიგონის მიმდებარედ არსებული “პოლიეთილენის ტყე”, სადაც ხეები ...',
+                image: 'https://imagedelivery.net/d_EE26O5eWcJDRYn-qMBOg/2d7f098a-9859-4da6-6985-ad7fad06da00/fit=scale-down,width=960',
+                date: '10 ივნისი 2023',
             },
             {
                 id: 3,
