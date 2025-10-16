@@ -5,9 +5,10 @@ import { NewsModule } from './news/news.module';
 import { BannersModule } from './banners/banners.module';
 import { PriceModule } from './price/price.module';
 import { ServicesModule } from './services/services.module';
+import { AdvantagesModule } from './advantages/advantages.module';
 
 @Module({
-  imports: [NewsModule, BannersModule, PriceModule, ServicesModule],
+  imports: [NewsModule, BannersModule, PriceModule, ServicesModule, AdvantagesModule],
   controllers: [AppController],
   providers: [AppService],
 })
